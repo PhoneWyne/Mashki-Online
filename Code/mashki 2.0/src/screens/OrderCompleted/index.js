@@ -1,0 +1,1 @@
+export {OrderCompleted} from './orderCompleted';

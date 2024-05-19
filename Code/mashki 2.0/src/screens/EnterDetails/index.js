@@ -1,0 +1,1 @@
+export {EnterDetails} from './enterDetails';
